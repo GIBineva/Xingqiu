@@ -36,8 +36,8 @@
 <br><hr><br>
   
   <h3>
-  Documentation: 
+  Documentation: https://github.com/GIBineva/Xingqiu/blob/main/Resources/Xingqiu.docx
   <br>
-  Presentation: 
+  Presentation: https://github.com/GIBineva/Xingqiu/blob/main/Resources/XingqiuTeam.pptx
 </h3>
   <br>
