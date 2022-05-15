@@ -5,8 +5,8 @@
 #include <cstring>
 using namespace std;
 
-void cardPicker1() {
-    const char* card1 = R"CARD1(
+void cardPicker1() { //   <--- card selecting function
+    const char* card1 = R"CARD1( 
         ///////// 
         /       / 
         /   0   / 
@@ -44,7 +44,7 @@ void cardPicker1() {
 
     int randNum;
 
-    srand(time(NULL));
+    srand(time(NULL)); //   <--- randomiser which selects one of the 4 different types of cards
     for (int i = 0; i < 6; i++) {
         randNum = 1 + rand() % 4;
 
@@ -67,7 +67,7 @@ void cardPicker1() {
 
 
 }
-int main()
+int main() // <--- main function
 {
     cardPicker1();
 }
