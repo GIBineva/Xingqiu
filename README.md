@@ -26,7 +26,7 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://mpng.subpng.com/20180512/hww/kisspng-discord-computer-icons-logo-computer-software-5af6ee332653a4.233802591526132275157.jpg" alt="discord" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual studio code" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="Visual studio code" width="70" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 </p> 
 
   
