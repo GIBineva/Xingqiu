@@ -7,10 +7,10 @@
 </h1>
 <details>
            <summary><h2>Members: 😎</summary>
-            <summary> Gergana Bineva - Designer - https://github.com/GIBineva </summary>
+            <summary> Gergana Bineva - Scrum - https://github.com/GIBineva </summary>
             <summary> Maria Ukrainska - Backend - https://github.com/MDUkrainska20</summary>
-            <summary> Miroslav Shivachev - Scrum - https://github.com/MRShivachev </summary>
-            <summary> Stella Ivanova - Frontend - https://github.com/SIIvanova20 </summary>
+            <summary> Miroslav Shivachev - Backend - https://github.com/MRShivachev </summary>
+            <summary> Stella Ivanova - QA - https://github.com/SIIvanova20 </summary>
            
 </details>
 
