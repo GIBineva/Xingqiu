@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1>Xingqiu</h1>
+  <img  src="https://github.com/GIBineva/Xingqiu/blob/main/Resources/Logo/Untitled271_20220515201714.png?raw=true">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
