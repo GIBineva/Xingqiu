@@ -3,8 +3,6 @@
   <img  src="https://github.com/GIBineva/Xingqiu/blob/main/Resources/Logo/Untitled271_20220515201714.png?raw=true">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
-</h1>
 <details>
            <summary><h2>Members: 😎</summary>
             <summary> Gergana Bineva - Scrum - https://github.com/GIBineva </summary>
@@ -34,10 +32,4 @@
 
 
 <br><hr><br>
-  
-  <h3>
-  Documentation: https://github.com/GIBineva/Xingqiu/blob/main/Resources/Xingqiu.docx
-  <br>
-  Presentation: https://github.com/GIBineva/Xingqiu/blob/main/Resources/XingqiuTeam.pptx
-</h3>
-  <br>
+
