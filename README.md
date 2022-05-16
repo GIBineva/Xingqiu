@@ -33,3 +33,5 @@
 
 <br><hr><br>
 
+* <a href = "https://codingburgas-my.sharepoint.com/:w:/g/personal/mdukrainska20_codingburgas_bg/EWwnPYryc79Au9-IaBOV5iQBRRDveQX9dtFX62U9IvHYRQ?e=yjWcLx">Documentation</a>
+* <a href = "https://codingburgas-my.sharepoint.com/:p:/g/personal/mdukrainska20_codingburgas_bg/EUCuyWTDdIJCvAPg28ebUscBUDGNKdf0lF_nuIXF7FUe6A?e=t3QLzg">Presentation</a>
